@@ -1,45 +1,28 @@
-![En construcción](https://upload.wikimedia.org/wikipedia/commons/e/ef/En_construccion.jpg)
-
-### Objetivo del juego/aplicación
-El objetivo del juego/aplicación es ...
-
-### Descripción del juego/aplicación
-La descripción del juego/aplicación es ...
 
 ### Clases principales y sus características
-1. Clase 1
-* caracteristica1
-* caracteristica2
-* caracteristica3
+1. Muro
+- MuroE
+- MuroN
 
-2. Clase 2
-* caracteristica1
-* caracteristica2
-* caracteristica3
+2. Personaje
+- Jugador
+- Enemigo
 
-3. Clase 3
-* caracteristica1
-* caracteristica2
-* caracteristica3
-
-4. Clase 4
-* caracteristica1
-* caracteristica2
-* caracteristica3
-
-5. Clase 5
-* caracteristica1
-* caracteristica2
-* caracteristica3
+3. Botón
+- Ayuda
+- Créditos 
+- Jugar 
 
 ### Diagrama de clases
-![Diagrama de clases](url-del-diagrama.png)
+https://plus.google.com/photos/113828127959402830080/album/6425319837927158817/6425319837735476658?authkey=CNKUmsDv9faz9AE
+https://plus.google.com/photos/113828127959402830080/album/6425319837927158817/6425319839099449426?authkey=CNKUmsDv9faz9AE
 
 ### Autor(es)
 El autor(es) del proyecto son:
-- Nombre completo del autor 1 (@nombreUsuarioGitHub)
-- Nombre completo del autor 2 (@nombreUsuarioGitHub)
-
+- Néstor Javier Méndez Gutiérrez
+- Antonio de Jesús Noyola Ruiz
+### Vídeo
+https://www.youtube.com/watch?v=i0rIihtdYG8
 ### Materia(s)
 - Programación Orientada a Objetos
 
