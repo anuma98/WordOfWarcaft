@@ -1,17 +1,17 @@
 
 ### Clases principales y sus características
 1. Muro
-- MuroE
-- MuroN
+    - MuroE
+    - MuroN
 
 2. Personaje
-- Jugador
-- Enemigo
+    - Jugador
+    - Enemigo
 
 3. Botón
-- Ayuda
-- Créditos 
-- Jugar 
+    - Ayuda
+    - Créditos 
+    - Jugar 
 
 ### Diagrama de clases
 https://plus.google.com/photos/113828127959402830080/album/6425319837927158817/6425319837735476658?authkey=CNKUmsDv9faz9AE
