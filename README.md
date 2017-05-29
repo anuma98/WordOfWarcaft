@@ -27,7 +27,7 @@ El autor(es) del proyecto son:
 - Néstor Javier Méndez Gutiérrez
 - Antonio de Jesús Noyola Ruiz
 ### Vídeo
-https://www.youtube.com/watch?v=i0rIihtdYG8
+[Video Muestra](https://www.youtube.com/watch?v=i0rIihtdYG8)
 ### Materia(s)
 - Programación Orientada a Objetos
 
