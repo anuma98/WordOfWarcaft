@@ -11,7 +11,11 @@
 3. Botón
     - Ayuda
     - Créditos 
-    - Jugar 
+    - Jugar
+    
+### Fondos de pantalla
+
+![GitHub Logo](2408.jpg)
 
 ### Diagrama de clases
 https://plus.google.com/photos/113828127959402830080/album/6425319837927158817/6425319837735476658?authkey=CNKUmsDv9faz9AE
