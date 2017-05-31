@@ -26,6 +26,10 @@
 
 [Descarga](https://github.com/anuma98/WordOfWarcaft/blob/master/WordOfWarcraftFinal.zip)
 
+### Manual
+
+[Manual Usuario](https://github.com/anuma98/WordOfWarcaft/blob/master/Manual%20de%20usuario.pdf)
+
 
 ### Autor(es)
 El autor(es) del proyecto son:
