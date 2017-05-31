@@ -13,10 +13,10 @@
     - Créditos 
     - Jugar
     
-### Fondos de pantalla
+### Capturas de pantalla
 
 ![GitHub Logo](2408.jpg)
-
+![GitHub Logo](Juego.PNG)
 ### Diagrama de clases
 [Diagrama #1](https://plus.google.com/photos/113828127959402830080/album/6425319837927158817/6425319837735476658?authkey=CNKUmsDv9faz9AE)
 
