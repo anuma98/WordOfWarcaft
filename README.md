@@ -22,15 +22,6 @@
 
 [Diagrama #2](https://plus.google.com/photos/113828127959402830080/album/6425319837927158817/6425319839099449426?authkey=CNKUmsDv9faz9AE)
 
-### Link De descarga
-
-[Descarga](https://github.com/anuma98/WordOfWarcaft/blob/master/WordOfWarcraftFinal.zip)
-
-### Manual
-
-[Manual Usuario](https://github.com/anuma98/WordOfWarcaft/blob/master/Manual%20de%20usuario.pdf)
-
-
 ### Autor(es)
 El autor(es) del proyecto son:
 - Néstor Javier Méndez Gutiérrez
